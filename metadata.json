@@ -1,8 +1,0 @@
-{
-  "name": "Remix Mundo Regalón - Tienda de Juguetes y Regalos",
-  "description": "Tienda online Mundo Regalón con juguetes y regalos para niños, cumpleaños, 15 años y eventos en Bolivia. Pago con QR Simple y envío directo a WhatsApp.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
